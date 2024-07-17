@@ -17,10 +17,10 @@ body {
 
 
 img {
-    width: 583px;
-    height: 374px;
+    width: 500px;
+    height: 300px;
     display: block;
-    margin-left: 500px;
+    margin-left: 120px;
 }
 
 h2 {
@@ -58,9 +58,14 @@ button {
     height: 72px;
     color: white;
     font-weight: 700;
+    font-size: 30px;
     margin-top: 80px;
+    padding-left: 120px;
     border: none;
     cursor: pointer;
+    display: flex;
+    align-items: center;
+    margin-left: 150px;
 }
 
 button:hover {
